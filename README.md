@@ -2,6 +2,7 @@
 
 An email delivery system that implements micro service architecture in Go.
 
+<img width="1210" alt="Screenshot 2021-07-17 at 19 47 15" src="https://user-images.githubusercontent.com/43847681/126044173-4d4f113a-8832-4649-b172-7e1feeae79f3.png">
 
 
 # INSTRUCTIONS:
